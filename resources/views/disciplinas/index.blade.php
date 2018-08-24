@@ -7,3 +7,4 @@
     </li>
 @endforeach
 </ul>
+<a href="/disciplinas/create">Nova disciplina</a>
